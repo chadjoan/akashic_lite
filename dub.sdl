@@ -1,0 +1,11 @@
+name "akashic_lite"
+description "An SQLite-based history-preserving database."
+authors "Chad Joan"
+copyright "Copyright © 2020, Chad Joan"
+license "BSL-1.0"
+configuration "application" {
+	targetName "app"
+	targetType "executable"
+	targetPath "bin"
+}
+
